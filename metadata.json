@@ -1,0 +1,6 @@
+{
+  "name": "Habla Español — Aventuras de la vida real",
+  "description": "Aplicación interactiva para practicar español conversacional (A2–B2) en situaciones reales con traducciones y explicaciones en armenio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
